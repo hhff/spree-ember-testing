@@ -10,3 +10,7 @@ development:
 test:
   <<: *default
   database: spree-ember-testing_test
+
+production:
+  <<: *default
+  database: spree-ember-testing_production
