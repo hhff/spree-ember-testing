@@ -1,0 +1,12 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: spree-ember-testing_development
+
+test:
+  <<: *default
+  database: spree-ember-testing_test
