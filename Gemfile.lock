@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/hhff/spree_ams.git
-  revision: 0fc2ab0ac852998d6235a64263de9e4b446dd58d
+  revision: b841df57a69475da1456b66d9d5a9d741ae7d8d9
   branch: 3-0-alpha
   specs:
     spree_ams (3.0.0)
