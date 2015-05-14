@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/hhff/spree_ams.git
-  revision: b841df57a69475da1456b66d9d5a9d741ae7d8d9
+  revision: d06a8398e07696eeae1206ad6ad8836d29eedbb4
   branch: 3-0-alpha
   specs:
     spree_ams (3.0.0)
@@ -82,7 +82,7 @@ GEM
       railties
       rspec_api_documentation
     arel (6.0.0)
-    autoprefixer-rails (5.1.9)
+    autoprefixer-rails (5.1.11)
       execjs
       json
     awesome_nested_set (3.0.2)
@@ -113,7 +113,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
-    colorize (0.7.5)
+    colorize (0.7.7)
     css_parser (1.3.6)
       addressable
     debug_inspector (0.0.2)
@@ -163,7 +163,7 @@ GEM
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
-    mime-types (2.4.3)
+    mime-types (2.5)
     mini_portile (0.6.2)
     minitest (5.6.0)
     monetize (1.2.0)
@@ -326,7 +326,7 @@ GEM
     spree_sample (3.0.0)
       spree_core (= 3.0.0)
     spring (1.3.4)
-    sprockets (3.0.1)
+    sprockets (3.0.2)
       rack (~> 1.0)
     sprockets-rails (2.2.4)
       actionpack (>= 3.0)
